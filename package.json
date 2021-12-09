@@ -1,5 +1,5 @@
 {
-  homepage: "https://bluebeatzbot.github.io/bluebeatz"
+  "homepage": "https://bluebeatzbot.github.io/bluebeatz",
   "name": "blue",
   "version": "0.1.0",
   "private": true,
